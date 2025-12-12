@@ -12,7 +12,7 @@
     "@featbit/react-client-sdk": "file:../../",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.2"
+    "next": "14.2.35"
   },
   "devDependencies": {
     "typescript": "^5",
